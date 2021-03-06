@@ -4,5 +4,10 @@
 ### Setup
 
 - Download files
+- Download and install Pyhon (for Windows)
 - Update parameters into scripts
 - Test Client-Server connection
+
+### Python
+
+- [Download for Windows](https://www.python.org/downloads/)
